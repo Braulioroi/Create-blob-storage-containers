@@ -1,4 +1,5 @@
-git init
+Create blob storage containers
+
 First we create a storage account fill in the basic data (subscription, resource group name, resource name, region) and deploy the storage
 
 ![](/imagenes/1.PNG)
